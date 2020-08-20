@@ -1,0 +1,401 @@
+School,Engineering,Private,Early Career Pay,Mid-Career Pay,Percent High Meaning
+Adelphi University,False,True,53700,96400,0.5
+Albany College of Pharmacy and Health Sciences,False,True,81000,144800,0.82
+Albion College,False,True,52100,99300,0.44
+American University,False,True,55700,102900,0.45
+Amherst College,False,True,63800,116500,0.45
+Arizona State University-Tempe,False,False,54500,100900,0.52
+Art Center College of Design,False,True,63200,106100,0.42
+Auburn University,False,False,54400,104500,0.51
+Babson College,False,True,72000,133800,0.37
+Barnard College,False,True,59200,109800,0.57
+Bates College,False,True,59500,111900,0.5
+Baylor University,False,True,55500,101400,0.49
+Bellin College,False,True,55800,97600,0.94
+Bentley University,False,True,66600,116600,0.36
+Binghamton University,False,False,61300,109600,0.44
+Boston College,False,True,63600,115400,0.43
+Boston University,False,True,61400,113600,0.43
+Bowdoin College,False,True,61300,112000,0.54
+Bradley University,False,True,55600,104900,0.46
+Brandeis University,False,True,60600,113200,0.48
+Brigham Young University-Provo,False,True,59200,108000,0.6
+Brown University,False,True,68200,127600,0.45
+Bryant University,False,True,60500,108600,0.37
+Bucknell University,False,True,66700,122900,0.4
+Butler University,False,True,51800,99300,0.53
+CUNY Bernard M Baruch College,False,False,58800,107100,0.37
+CUNY Brooklyn College,False,False,51300,97800,0.44
+CUNY City College,False,False,53500,99100,0.57
+CUNY Queens College,False,False,52400,96700,0.47
+California College of the Arts,False,True,58900,103300,0.48
+California Institute of Technology,True,True,84100,151600,0.53
+California Polytechnic State University-San Luis Obispo,False,False,65600,119500,0.51
+California State Polytechnic University-Pomona,False,False,57700,110800,0.5
+California State University Maritime Academy,False,False,70500,129600,0.57
+California State University-Chico,False,False,56900,105100,0.51
+California State University-East Bay,False,False,56600,103500,0.52
+California State University-Fresno,False,False,51100,97300,0.57
+California State University-Fullerton,False,False,51200,98400,0.48
+California State University-Long Beach,False,False,52700,101700,0.49
+California State University-Northridge,False,False,51200,97300,0.51
+California State University-Sacramento,False,False,54400,101100,0.53
+Capitol Technology University,True,True,67400,118400,0.63
+Carleton College,False,True,58800,109900,0.47
+Carnegie Mellon University,True,True,75900,136100,0.45
+Case Western Reserve University,False,True,66600,117800,0.44
+Catholic University of America,False,True,57300,105100,0.56
+Chapman University,False,True,53700,99400,0.46
+Charles R Drew University of Medicine and Science,False,True,78300,135700,
+Christian Brothers University,False,True,51500,96500,0.6
+Citadel Military College of South Carolina,False,False,60400,108100,0.62
+Claremont McKenna College,False,True,68500,125400,0.43
+Clark University,False,True,52600,101400,0.47
+Clarkson University,True,True,66400,130100,0.58
+Clemson University,False,False,57500,106700,0.5
+Colby College,False,True,59200,103300,0.5
+Coleman University,True,True,59400,103500,0.48
+Colgate University,False,True,68400,130600,0.41
+College of William and Mary,False,False,59000,108900,0.42
+College of the Holy Cross,False,True,61800,114600,0.46
+Colorado College,False,True,53100,97900,0.48
+Colorado School of Mines,True,False,75600,139600,0.6
+Colorado State University-Fort Collins,False,False,53500,96100,0.51
+Columbia University in the City of New York,False,True,71400,126800,0.45
+Connecticut College,False,True,57500,100800,0.36
+Cooper Union for the Advancement of Science and Art,True,True,68500,126200,0.46
+Cornell University,False,True,70100,128200,0.45
+Dartmouth College,False,True,71500,130900,0.44
+Davidson College,False,True,57300,106900,0.5
+DePaul University,False,True,55700,102900,0.43
+DePauw University,False,True,56600,101000,0.47
+Denison University,False,True,54400,104800,0.45
+Dickinson College,False,True,55800,100100,0.46
+Dominican University of California,False,True,55300,95900,0.65
+Drake University,False,True,52800,99900,0.49
+Drexel University,False,True,61700,114800,0.47
+Duke University,False,True,71100,132100,0.5
+Dunwoody College of Technology,False,True,53400,96600,0.55
+Duquesne University,False,True,52600,96100,0.51
+Embry-Riddle Aeronautical University-Daytona Beach,False,True,63300,111200,0.58
+Embry-Riddle Aeronautical University-Prescott,False,True,65600,117900,0.59
+Embry-Riddle Aeronautical University-Worldwide,False,True,55800,96800,0.67
+Emory University,False,True,62000,110800,0.44
+Excelsior College,False,True,54900,98200,0.67
+Fairfield University,False,True,62300,116900,0.41
+Fairleigh Dickinson University-Florham Campus,False,True,53700,98500,0.42
+Fairleigh Dickinson University-Florham Campus,False,True,53700,98500,0.42
+Fashion Institute of Technology,False,False,54200,100500,0.28
+Felician University,False,True,53200,98200,0.51
+Florida Institute of Technology,False,True,58300,105400,0.53
+Fordham University,False,True,58700,112500,0.38
+Franklin and Marshall College,False,True,57200,109700,0.42
+Furman,False,True,52100,98800,0.48
+George Mason University,False,False,58900,105700,0.48
+George Washington University,False,True,61400,115300,0.47
+Georgetown University,False,True,66400,122200,0.42
+Georgia Institute of Technology-Main Campus,True,False,72700,133400,0.48
+Gettysburg College,False,True,58400,109300,0.39
+Golden Gate University-San Francisco,False,True,59200,109800,0.49
+Gonzaga University,False,True,57800,107600,0.51
+Grinnell College,False,True,53400,96500,0.49
+Grove City College,False,True,54400,98400,0.53
+Gustavus Adolphus College,False,True,51200,96800,0.47
+Hamilton College,False,True,62600,108100,0.45
+Hampden-Sydney College,False,True,58300,108600,0.52
+Hartwick College,False,True,53100,99200,0.59
+Harvard University,False,True,74800,146800,0.54
+Harvey Mudd College,True,True,88800,158200,0.55
+Haverford College,False,True,59300,112300,0.47
+Hobart William Smith Colleges,False,True,56500,108500,0.46
+Hofstra University,False,True,57300,110400,0.38
+Howard University,False,True,55200,101300,0.56
+Illinois Institute of Technology,True,True,64600,118500,0.47
+Illinois Wesleyan University,False,True,53100,96000,0.44
+Indiana University-Bloomington,False,False,53600,97100,0.47
+Iona College,False,True,56200,106200,0.41
+Iowa State University,False,False,56100,101300,0.48
+Ithaca College,False,True,52900,98600,0.42
+James Madison University,False,False,57400,102600,0.42
+Jefferson College of Health Sciences,False,True,55500,97600,0.86
+John Carroll University,False,True,51600,97300,0.39
+John F. Kennedy University,False,True,53200,96500,
+Johns Hopkins University,False,True,67200,117100,0.57
+Kansas State University,False,False,52500,97200,0.51
+Kenyon College,False,True,55000,103800,0.5
+Kettering College,False,True,54300,95800,
+Kettering University,True,True,69900,125000,0.44
+LIU Brooklyn,False,True,56100,104100,0.69
+LIU Post,False,True,52500,99200,0.49
+La Salle University,False,True,55800,104800,0.4
+Lafayette College,False,True,66500,122500,0.37
+Lake Forest College,False,True,55400,102600,0.46
+Lamar University,False,False,53300,101200,0.57
+Lawrence Technological University,True,True,57900,108400,0.49
+Lawrence University,False,True,51500,98800,0.58
+LeTourneau University,False,True,56600,98900,0.53
+Lehigh University,True,True,69500,134100,0.45
+Loma Linda University,False,True,66300,109200,0.84
+Louisiana State University and Agricultural & Mechanical College,False,False,54800,102900,0.53
+Louisiana Tech University,False,False,53100,100700,0.57
+Loyola Marymount University,False,True,58500,113300,0.39
+Loyola University Chicago,False,True,53400,96000,0.45
+Loyola University Maryland,False,True,59900,111200,0.4
+MCPHS University,False,True,65900,121800,0.71
+Macalester College,False,True,53600,100400,0.51
+Maine Maritime Academy,False,False,67000,121800,0.65
+Manhattan College,False,True,64000,125700,0.46
+Manhattanville College,False,True,55700,97500,0.47
+Marist College,False,True,55800,101000,0.33
+Marquette University,False,True,57800,105900,0.52
+Massachusetts Institute of Technology,True,True,86300,155200,0.52
+Massachusetts Maritime Academy,False,False,67900,117500,0.53
+Menlo College,False,True,61900,112400,0.59
+Merrimack College,False,True,56000,102500,0.5
+Miami University-Oxford,False,False,57200,107300,0.46
+Michigan State University,False,False,55300,100800,0.46
+Michigan Technological University,True,False,65000,116300,0.47
+Middlebury College,False,True,60400,109800,0.54
+Milwaukee School of Engineering,True,True,65700,117600,0.5
+Missouri University of Science and Technology,True,False,67300,122600,0.5
+Molloy College,False,True,58500,99500,0.65
+Montana State University,False,False,53700,96200,0.54
+Montana Tech of the University of Montana,True,False,61200,112600,0.64
+Morehouse College,False,True,55700,98700,0.58
+Mount Carmel College of Nursing,False,True,56600,99700,0.78
+Mount Saint Mary's University,False,True,53800,97500,0.57
+Muhlenberg College,False,True,53400,101900,0.43
+New Jersey Institute of Technology,True,False,64600,121300,0.51
+New Mexico Institute of Mining and Technology,True,False,64700,120400,0.61
+New Mexico State University-Main Campus,False,False,50400,96700,0.6
+New York Institute of Technology,False,True,55300,104400,0.46
+New York University,False,True,63100,117700,0.42
+North Carolina State University at Raleigh,False,False,57300,106500,0.52
+North Dakota State University-Main Campus,False,False,54200,98600,0.56
+Northeastern University,False,True,62500,109700,0.46
+Northwestern University,False,True,63400,115400,0.46
+Norwich University,False,True,57000,99100,0.51
+Notre Dame de Namur University,False,True,55900,99700,0.48
+Oberlin College,False,True,53100,96800,0.47
+Occidental College,False,True,56300,105700,0.48
+Ohio Northern University,False,True,54400,103900,0.49
+Ohio State University-Main Campus,False,False,55300,98600,0.49
+Ohio Wesleyan University,False,True,51300,99200,0.46
+Oklahoma State University-Main Campus,False,False,52800,98600,0.54
+Oregon Health & Science University,False,False,65400,108300,0.79
+Oregon Institute of Technology,False,False,61200,106800,0.6
+Oregon State University,False,False,56200,104800,0.53
+Otis College of Art and Design,False,True,54000,97200,0.34
+Pace University-New York,False,True,59800,107800,0.4
+Pacific Lutheran University,False,True,54500,98100,0.53
+Pacific Union College,False,True,54700,97400,0.61
+Pennsylvania State University-Main Campus,False,False,58500,105500,0.47
+Pennsylvania State University-Penn State Brandywine,False,False,54200,95900,0.38
+Pennsylvania State University-Penn State Erie-Behrend College,False,False,58800,97900,0.44
+Pennsylvania State University-Penn State Harrisburg,False,False,55000,100400,0.47
+Pepperdine University,False,True,58300,103900,0.44
+Pitzer College,False,True,53200,96600,0.5
+Polytechnic University of Puerto Rico-Miami,False,True,60600,108300,0.61
+Polytechnic University of Puerto Rico-Orlando,False,True,57600,102200,0.66
+Pomona College,False,True,63800,117200,0.47
+Prairie View A & M University,False,False,57800,99400,0.65
+Pratt Institute-Main,False,True,54000,102300,0.43
+Princeton University,False,True,75200,139400,0.48
+Providence College,False,True,58900,106900,0.44
+Purdue University-Main Campus,False,False,60900,110000,0.48
+Quinnipiac University,False,True,55900,97700,0.46
+Reed College,False,True,56100,104900,0.44
+Rensselaer Polytechnic Institute,True,True,71300,134100,0.49
+Rhode Island School of Design,False,True,55500,100600,0.39
+Rhodes College,False,True,51900,97800,0.46
+Rice University,False,True,71000,129500,0.5
+Rider University,False,True,51600,99000,0.47
+Rochester Institute of Technology,True,True,61500,106600,0.43
+Rose-Hulman Institute of Technology,True,True,75000,135800,0.51
+Rush University,False,True,63500,107600,0.88
+Rutgers University-New Brunswick,False,False,59800,111000,0.42
+Rutgers University-Newark,False,False,57900,101800,0.52
+SUNY College of Environmental Science and Forestry,False,False,52600,97000,0.57
+SUNY Downstate Medical Center,False,False,64000,109300,0.83
+SUNY Maritime College,False,False,74900,140700,0.53
+SUNY at Albany,False,False,53400,101700,0.44
+Sacred Heart University,False,True,55000,100500,0.46
+Saint Anselm College,False,True,56400,100300,0.59
+Saint Johns University,False,True,59400,108400,0.45
+Saint Joseph's University,False,True,57300,105100,0.41
+Saint Mary's College of California,False,True,59900,110800,0.51
+Saint Michael's College,False,True,52900,98500,0.4
+Saint Peter's University,False,True,52900,95900,0.35
+Samuel Merritt University,False,True,91200,154100,0.9
+San Diego State University,False,False,55100,102800,0.51
+San Francisco State University,False,False,56900,99500,0.49
+San Jose State University,False,False,63000,114700,0.53
+Santa Clara University,False,True,69900,134700,0.44
+Sarah Lawrence College,False,True,52100,96100,0.35
+Scripps College,False,True,54700,98600,0.47
+Seattle Pacific University,False,True,53600,103400,0.52
+Seattle University,False,True,60600,113700,0.59
+Seton Hall University,False,True,57100,103800,0.45
+Sewanee-The University of the South,False,True,53700,97800,0.57
+Siena College,False,True,53800,101500,0.45
+Skidmore College,False,True,54700,99700,0.39
+Smith College,False,True,52700,98200,0.51
+Sonoma State University,False,False,53400,97100,0.56
+South Dakota School of Mines and Technology,True,False,66500,118500,0.58
+Southern California Institute of Architecture,False,True,53600,98400,0.72
+Southern Methodist University,False,True,59700,110400,0.46
+St John's University-New York,False,True,55400,106600,0.43
+St Lawrence University,False,True,55700,104000,0.49
+St Olaf College,False,True,54100,101900,0.46
+St. John's College,False,True,55900,101200,
+St. John's College-Department of Nursing,False,True,55100,100000,
+Stanford University,True,True,79000,145200,0.56
+Stevens Institute of Technology,True,True,75100,139900,0.47
+Stonehill College,False,True,55900,103200,0.42
+Stony Brook University,False,False,59200,107800,0.49
+Suffolk University,False,True,52700,96400,0.35
+Swarthmore College,False,True,67500,123200,0.44
+Syracuse University,False,True,58100,104800,0.43
+Temple University,False,False,52000,95900,0.46
+Texas A & M University-College Station,False,False,60600,115700,0.53
+Texas A & M University-Kingsville,True,False,53100,97500,0.63
+Texas Christian University,False,True,56000,98700,0.51
+Texas Tech University,False,False,56800,106500,0.54
+Texas Tech University Health Sciences Center,False,False,61300,104900,0.86
+The College of New Jersey,False,False,58200,101800,0.44
+The Juilliard School,False,True,53600,97400,
+The King's University,False,True,63800,116500,0.33
+The New School,False,True,54600,101700,0.34
+The University of Alabama,False,False,52300,97400,0.5
+The University of Texas Health Science Center at Houston,False,False,65400,109400,0.8
+The University of Texas Health Science Center at San Antonio,False,False,59400,100200,0.85
+The University of Texas Medical Branch,False,False,61100,103100,0.87
+The University of Texas at Arlington,False,False,55400,99500,0.55
+The University of Texas at Austin,False,False,60700,112800,0.49
+The University of Texas at Dallas,False,False,57100,100900,0.42
+Thomas Jefferson University,False,True,63400,102500,0.83
+Touro College,False,True,58100,103100,0.52
+Trine University,False,True,55100,100300,0.56
+Trinity College,False,True,60100,110900,0.49
+Trinity University,False,True,54900,102900,0.46
+Tufts University,False,True,65200,118100,0.49
+Tulane University of Louisiana,False,True,56800,105300,0.44
+Union College (New York),False,True,63300,117500,0.5
+United States Air Force Academy,False,False,76300,138100,0.69
+United States Coast Guard Academy,True,False,67300,118100,0.68
+United States Merchant Marine Academy,True,False,80600,140700,0.62
+United States Military Academy,False,False,80200,144000,0.61
+United States Naval Academy,True,False,80100,152800,0.64
+Universidad Politecnica de Puerto Rico,True,True,54000,96700,0.56
+University at Buffalo,False,False,53700,98000,0.47
+University of Alabama in Huntsville,False,False,57500,103900,0.59
+University of Alaska Anchorage,False,False,56000,101000,0.57
+University of Alaska Fairbanks,False,False,59100,101800,0.54
+University of Arizona,False,False,56100,101000,0.51
+University of Arkansas,False,False,52500,98000,0.49
+University of California-Berkeley,False,False,70700,131800,0.49
+University of California-Davis,False,False,61500,112600,0.52
+University of California-Irvine,False,False,59600,116000,0.49
+University of California-Los Angeles,False,False,62000,116100,0.48
+University of California-Riverside,False,False,55900,106900,0.47
+University of California-San Diego,True,False,63400,123700,0.52
+University of California-Santa Barbara,False,False,59700,116300,0.47
+University of California-Santa Cruz,False,False,58100,104700,0.47
+University of Chicago,False,True,64000,114200,0.41
+University of Cincinnati-Main Campus,False,False,53600,97300,0.5
+University of Colorado Boulder,False,False,57800,109900,0.48
+University of Connecticut,False,False,59100,105200,0.48
+University of Dallas,False,True,53000,96400,0.49
+University of Dayton,False,True,57400,105000,0.44
+University of Delaware,False,False,58600,105400,0.43
+University of Denver,False,True,55700,105100,0.48
+University of Florida,False,False,55800,102800,0.52
+University of Georgia,False,False,54400,100700,0.45
+University of Hartford,False,True,55200,101600,0.53
+University of Houston,False,False,56000,103900,0.5
+University of Idaho,False,False,52300,97700,0.54
+University of Illinois at Chicago,False,False,56300,103800,0.48
+University of Illinois at Urbana-Champaign,False,False,62600,115300,0.44
+University of Iowa,False,False,54100,99400,0.48
+University of Kansas,False,False,53000,98600,0.52
+University of Kentucky,False,False,51700,96400,0.48
+University of Mary Washington,False,False,54200,98200,0.49
+"University of Maryland, Baltimore",False,False,57300,99600,0.76
+University of Maryland-Baltimore County,False,False,58100,103600,0.54
+University of Maryland-College Park,False,False,61300,113400,0.5
+University of Maryland-University College,False,False,55300,99600,0.59
+University of Massachusetts-Amherst,False,False,57400,103000,0.46
+University of Massachusetts-Lowell,False,False,58800,109300,0.53
+University of Miami,False,True,56200,99600,0.48
+University of Michigan-Ann Arbor,False,False,63500,112200,0.45
+University of Michigan-Dearborn,False,False,55700,99500,0.39
+University of Minnesota-Twin Cities,False,False,57200,104000,0.51
+University of Missouri-Columbia,False,False,52300,98600,0.49
+University of Nebraska-Lincoln,False,False,51500,96700,0.53
+University of New Hampshire-Main Campus,False,False,54300,100300,0.5
+University of North Carolina at Chapel Hill,False,False,55000,100800,0.49
+University of North Dakota,False,False,53800,96000,0.54
+University of Notre Dame,False,True,67000,130500,0.45
+University of Oklahoma-Health Sciences Center,False,False,57100,102100,0.68
+University of Oklahoma-Norman Campus,False,False,54400,100600,0.52
+University of Pennsylvania,False,True,72800,133900,0.41
+University of Pittsburgh-Pittsburgh Campus,False,False,55900,100400,0.5
+University of Portland,False,True,58500,104900,0.52
+University of Puerto Rico-Mayaguez,True,False,63000,109100,0.63
+University of Puget Sound,False,True,54200,101300,0.45
+University of Redlands,False,True,55400,102400,0.57
+University of Rhode Island,False,False,54500,99700,0.5
+University of Richmond,False,True,59800,107500,0.48
+University of Rochester,False,True,61100,112700,0.5
+University of San Diego,False,True,58900,109400,0.48
+University of San Francisco,False,True,60600,109900,0.52
+University of Scranton,False,True,56400,99700,0.42
+University of Southern California,False,True,64500,120600,0.47
+University of St Thomas (Minnesota),False,True,57500,106400,0.5
+University of Tulsa,False,True,58700,107200,0.51
+University of Utah,False,False,54800,102600,0.57
+University of Vermont,False,False,53200,99400,0.5
+University of Virginia-Main Campus,False,False,64500,117500,0.46
+University of Washington-Bothell Campus,False,False,60200,108000,0.53
+University of Washington-Seattle Campus,False,False,61900,112300,0.51
+University of Washington-Tacoma Campus,False,False,56000,96800,0.5
+University of Wisconsin-Madison,False,False,57300,104400,0.48
+University of Wisconsin-Platteville,False,False,56800,100300,0.5
+University of Wyoming,False,False,52400,98800,0.58
+University of the Pacific,False,True,59100,109300,0.59
+University of the Sciences,False,True,60700,115200,0.72
+Ursinus College,False,True,54400,101800,0.42
+Valparaiso University,False,True,53300,98000,0.52
+Vanderbilt University,False,True,65400,119100,0.48
+Vassar College,False,True,55400,100100,0.53
+Villanova University,False,True,65100,119500,0.41
+Virginia Military Institute,False,False,65900,120600,0.68
+Virginia Polytechnic Institute and State University,False,False,62700,114000,0.48
+Wabash College,False,True,62200,114400,0.4
+Wagner College,False,True,58100,105900,0.46
+Wake Forest University,False,True,60700,114800,0.44
+Walla Walla University,False,True,53700,97800,0.54
+Washington Adventist University,False,True,55600,97600,0.63
+Washington State University,False,False,55900,103700,0.5
+Washington University in St Louis,False,True,64800,114900,0.42
+Washington and Lee University,False,True,65900,123200,0.4
+Webb Institute,True,True,80800,141800,
+Wellesley College,False,True,58900,106200,0.48
+Wentworth Institute of Technology,False,True,62700,112700,0.53
+Wesleyan University,False,True,61600,117000,0.53
+West Virginia University,False,False,54400,99900,0.52
+West Virginia University Institute of Technology,False,False,57100,103700,0.56
+Western New England University,False,True,56400,103000,0.44
+Western Washington University,False,False,55000,99300,0.45
+Westmont College,False,True,54400,102400,0.56
+Wheaton College (Illinois),False,True,53700,99700,0.55
+Wheaton College (Massachusetts),False,True,52600,97500,0.46
+Whitman College,False,True,54600,102600,0.53
+Widener University,False,True,55700,100100,0.57
+Willamette University,False,True,52200,97700,0.49
+Williams College,False,True,67500,127500,0.47
+Wittenberg University,False,True,52400,105400,0.61
+Wofford College,False,True,51300,96600,0.51
+Worcester Polytechnic Institute,True,True,73600,135500,0.47
+Yale University,False,True,70300,138300,0.53
+Yeshiva University,False,True,63500,112800,0.4
